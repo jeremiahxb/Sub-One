@@ -1,6 +1,7 @@
 name = "sub-one"
 # main = "functions/[[path]].js"
 compatibility_date = "2024-06-13"
+pages_build_output_dir = "./dist"
 
 # KV 命名空间绑定
 # 注意：ID 需要用户在自己的 Cloudflare 后台创建 KV 后填写
